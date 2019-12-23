@@ -1,15 +1,4 @@
-# Isomorphic React
-## A Starter Isomorphic React Application with All Best Practices and No Frills
-![image](https://user-images.githubusercontent.com/4268152/31387801-c091f5c8-ad99-11e7-9cb6-42fcde98fc88.png)
-### About The Application
-This application is a basic API client which gathers data from an outside API (in this case, Stackoverflow) and generates an isomorphic, single-page application (SPA).
-
-### Why Isomorphic React?
-Great question!
-- Uses React / Redux as main application engine
-- Supports hot reloading and server rendering!
-- Uses React Router (in a combination with server rendering that is truly amazing)
-- No fluff, just the good stuff
+# Unit Test - Jest - React
 
 ### Getting Started
 1) Clone the repository
