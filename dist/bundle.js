@@ -16161,7 +16161,7 @@ class NotificationsViewer extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_redux_saga__ = __webpack_require__(57);
 
 /* harmony default export */ __webpack_exports__["a"] = ({
-  async GetNotifications() {
+  async getNotifications() {
     console.warn("REAL NOTIFICATION SERVICE! CONTACTING APIS!");
     await Object(__WEBPACK_IMPORTED_MODULE_0_redux_saga__["b" /* delay */])(1000);
     return {
